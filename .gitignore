@@ -1,0 +1,16 @@
+
+# Ignore model files
+*.h5    
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+.venv/
+env/
+*.egg-info/
+
+# Editor/IDE
+.vscode/
+.idea/
