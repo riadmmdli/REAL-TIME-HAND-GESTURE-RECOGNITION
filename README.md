@@ -106,9 +106,7 @@ YouTube tutorials and open-source contributors for gesture datasets
 ## 📄 License
 This project is licensed under the MIT License.
 
----
 
-Let me know if you'd like the collaborators listed with GitHub profile links or badge-style formatting!
 
 
 
