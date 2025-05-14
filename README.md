@@ -97,13 +97,6 @@ Model	Train Acc	Val Acc	Test Acc
 Custom CNN	95%	80%	~78%
 MobileNetV2	97%	93%	~91%
 
-## 👥 Collaborators
- – Model training, code development, documentation
-
-[Collaborator Name] – Dataset creation, model evaluation, testing
-
-(Add more as needed)
-
 ## 🧠 Acknowledgments
 TensorFlow/Keras
 cvzone
